@@ -27,7 +27,7 @@
 
 ### 🏆 Achievements
 
-- 🥇 Winner at XYZ Hackathon 2024
+- 🥇 Winner Hackathon 2024
 - 🎓 Certified AWS Solutions Architect
 - 🏅 Published research on AI in cloud computing
 
