@@ -25,11 +25,10 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 Winner Hackathon 2024
-- 🎓 Certified AWS Solutions Architect
-- 🏅 Published research on AI in cloud computing
+<!-- Achievements Section -->
+<!-- 🥇 Winner Hackathon 2024 -->
+<!-- 🎓 Certified AWS Solutions Architect -->
+<!-- 🏅 Published research on AI in cloud computing -->
 
 ---
 
